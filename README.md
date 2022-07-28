@@ -6,7 +6,7 @@
 > **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions**<br>
 > [Sangyun Lee](https://github.com/sangyun884)\*<sup>1</sup>, [Gyojung Gu](https://github.com/koo616)\*<sup>2,3</sup>, [Sunghyun Park](https://psh01087.github.io)<sup>2</sup>, [Seunghwan Choi](https://github.com/shadow2496)<sup>2</sup>, [Jaegul Choo](https://sites.google.com/site/jaegulchoo)<sup>2</sup><br>
 > <sup>1</sup>Soongsil University, <sup>2</sup>KAIST, <sup>3</sup>Nestyle<br>
-> In ECCV 2022 (* indicates equal contribution)
+> In ECCV 2019 (* indicates equal contribution)
 
 > Paper: https://arxiv.org/abs/2206.14180<br>
 > Project page: https://koo616.github.io/HR-VITON
@@ -75,10 +75,10 @@ All material is made available under [Creative Commons BY-NC 4.0](https://creati
 If you find this work useful for your research, please cite our paper:
 
 ```
-@article{lee2022hrviton,
+@article{lee2019hrviton,
   title={High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions},
   author={Lee, Sangyun and Gu, Gyojung and Park, Sunghyun and Choi, Seunghwan and Choo, Jaegul},
   journal={arXiv preprint arXiv:2206.14180},
-  year={2022}
+  year={2019}
 }
 ```
